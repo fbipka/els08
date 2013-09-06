@@ -1,0 +1,6 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"untitled.c" LINE:232
+FuncMenu DSTACK_USAGE:2 DSTACK_LEVEL:2 FILE:"untitled.c" LINE:123
+MenuPrint DSTACK_USAGE:6 DSTACK_LEVEL:8 FILE:"untitled.c" LINE:102
+printf DSTACK_USAGE:10 DSTACK_LEVEL:18 FILE:"C:\cvavreval\lib\stdio.lib" LINE:1476
+_print DSTACK_USAGE:20 DSTACK_LEVEL:38 FILE:"C:\cvavreval\lib\stdio.lib" LINE:503
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:40 FILE:"C:\cvavreval\lib\string.lib" LINE:1707

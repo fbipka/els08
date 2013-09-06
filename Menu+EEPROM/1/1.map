@@ -1,0 +1,43 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+X1                                                                0x0166      14
+X2                                                                0x0174      12
+X3                                                                0x0180       5
+X4                                                                0x0185       5
+X5                                                                0x018A       5
+X6                                                                0x018F       5
+X7                                                                0x0194       6
+X8                                                                0x019A       7
+X9                                                                0x01A1       4
+X10                                                               0x01A5       5
+X11                                                               0x01AA       3
+X12                                                               0x01AD      10
+X13                                                               0x01B7       2
+X14                                                               0x01B9       2
+X15                                                               0x01BB       8
+X16                                                               0x01C3       4
+X17                                                               0x01C7       3
+menu_g                                                            0x01CA      25
+E_Reg                                                             0x01E3       4
+E_RLP                                                             0x01E7       1
+_base_y                                                           0x01E8       4
+_lcd_x                                                            0x01EC       1
+_lcd_y                                                            0x01ED       1
+_lcd_maxx                                                         0x01EE       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+Menu                                                              R4,R5        2
+Reg                                                               R6,R7        2
+flag                                                              R9           1
+m1                                                                R8           1
+ModbusAdress                                                      R11          1
+TempAdr                                                           R10          1
+E_UBRRL                                                           R13          1
+E_UCSRC                                                           R12          1
